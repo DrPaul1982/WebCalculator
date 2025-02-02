@@ -52,7 +52,6 @@ h1 {
 }
 
 
-
 button {
     width: 60px;
     height: 60px;
@@ -75,9 +74,6 @@ button {
     filter:brightness(125%);
 } 
 
-/* button:hover {
-    background: #666;
-} */
 
 .operator {
     background: #ff9500;
